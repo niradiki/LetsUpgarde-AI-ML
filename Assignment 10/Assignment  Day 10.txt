@@ -1,0 +1,31 @@
+Null Hypothesis :The Average attrition  percentage of XYZ company is equal to 15 percentage:( Ho:µ)= 15%
+Alternate Hypothesis: The Average attrition  percentage of XYZ company is equal to 15 percentage:( Ho:µ )?15%
+
+Null Hypothesis: The Avegare Attrition from sales team is lessthan or equal to 5 percentgae (Ho:µ)<=5%.
+Alternate Hypothesis: The Avegare Attrition from sales team is lessthan or equal to 5 percentgae ( Ho:µ) >?5%
+
+Null Hypothesis: The average attrition  percentage of Male is lessthan of equal to 10 percentage(Ho:µ) <=10%
+Alternate Hypothesis: The average attrition percentage of Male is lessthan of equal to 10 percentage(Ho:µ)>?10%
+
+Null Hypothesis: The average attrition  percentage of Female is lessthan of equal to 5 percentage(Ho:µ)<=5%
+Alternate Hypothesis: The average attrition percentage of Female is lessthan of equal to 5 percentage(Ho:µ)>?5%
+
+Null Hypothesis: Employeesleaving the company with work experience more than 5 years is 6% (Ho:µ)=6%.
+Alternate Hypothesis:Employees leaving the company with work experience more than 5 years is 6%.(Ho:µ)?6%.
+
+Null Hypothesis:Employees not received promotion from 2 years or more  and leaving the organisation  is equal to 2.5 % (Ho:µ) >= 6.5%
+Alternate Hypothesis:Employees not received promotion from 2 years or more  and leaving the organisation  is equal to 2.5 % (Ho:µ)?2.5%
+
+Null Hypothesis:Employees leaving the organissation spent more then 5 years is greater than or equal to 6.5%.(Ho:µ) >= 6.5%
+Alternate Hypothesis:Employees leaving the organissation spent more then 5 years is greater than or equal to 6.5%.(Ho:µ) >? 6.5%
+
+Null Hypothesis:Female employees travelling frequently  resigned from organisation is equal to 2%.(Ho:µ)=2%.
+Alternate Hypothesis:Female employees travelling frequently  resigned from organisation is equal to 2%.(Ho:µ)?2%.
+
+
+Null Hypothesis: Averagea age of female resigned more then 30 years female is less than or equal to 4%.(Ho:µ)<=4%.
+Alternate Hypothesis: Averagea age of female resigned more then 30 years female is less than or equal to 4%.(Ho:µ)<?4%.
+
+
+Null Hypothesis:Employess resigned covers daily an average distance of more than 20 kms is 2% (Ho:µ)>=2%
+Alternate Hypothesis:Employess resigned covers daily an average distance of more than 20 kms is 2% (Ho:µ)>?2%.
